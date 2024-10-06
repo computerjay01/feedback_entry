@@ -1,0 +1,6 @@
+gspread==6.1.2
+google-auth==2.23.2  # This replaces oauth2client
+google-auth-oauthlib==1.0.0  # Handles OAuth 2.0 flow
+google-auth-httplib2==0.1.0  # HTTP support for Google OAuth
+pandas==2.2.3
+streamlit==1.38.0
